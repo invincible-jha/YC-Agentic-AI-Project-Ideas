@@ -1,0 +1,8 @@
+python
+crewAI
+langchain
+supabase
+mem0
+pinecone
+mongoDB
+llama
